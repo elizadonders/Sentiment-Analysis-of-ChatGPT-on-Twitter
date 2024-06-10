@@ -1,4 +1,4 @@
-Sentiment-Analysis-of-ChatGPT-on-Twitter
+Project: Sentiment-Analysis-of-ChatGPT-on-Twitter
 
 Objective:
 Conduct a sentiment analysis on Twitter data to determine the overall sentiment towards ChatGPT for a new AI company seeking competitor insights.
